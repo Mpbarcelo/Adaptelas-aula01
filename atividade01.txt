@@ -5,6 +5,7 @@ O que achei da aula:
 A aula sobre Git e GitHub foi extremamente informativa e bem organizada. O professor explicou os conceitos de forma clara e concisa, começando pelos fundamentos do controle de versão com Git, passando pelos comandos básicos e avançados, e culminando com a integração com o GitHub para colaboração e gerenciamento de projetos. Os exemplos práticos foram muito úteis para entender como aplicar os conceitos no dia a dia. Além disso, a abordagem prática, com essa atividade  ajudou a consolidar o aprendizado.
 
 O que espero do Adaptelas:
+
 Minhas expectativas em relação ao Adaptelas são bastante altas. Espero que a plataforma ofereça:
 
 Tutoriais Passo a Passo: Guias detalhados que cobrem desde a instalação do Git até o uso de recursos avançados do GitHub, como Pull Requests e Actions.
