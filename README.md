@@ -21,6 +21,7 @@ Siga as instruções de instalação fornecidas pelo site.
 Siga as instruções de instalação fornecidas pelo site.
 
 ### 3) Crie uma conta no GitHub
+
  GitHub é uma plataforma de hospedagem de código-fonte com controle de versão usando o Git. 
  Siga os seguintes passos para criar uma conta no GitHub:
 
